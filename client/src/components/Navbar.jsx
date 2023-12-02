@@ -46,7 +46,7 @@ const Navbar = () => {
   );
 
   return (
-    <header className="max-w-screen-2xl container mx-auto">
+    <header className="max-w-screen-2xl container mx-auto bg-gradient-to-r from-LightTaupe from-0% to-100% to-Rose">
       <div className="navbar xl:px-24">
         <div className="navbar-start">
           <div className="dropdown">
